@@ -37,6 +37,8 @@ password:shouvik123.
 Some of the glimpse are..........
 
 
+<img width="3221" alt="Music App Design OPPO Music App (Community)" src="https://github.com/ShouvikGhosh2/music-System/assets/130725715/59d17309-41c7-40dc-ba59-5e5a5536d015">
+
 
 
 #  Note: do not forget to add your email credentials validate.php and activate_email.php file so as to send email notifications
