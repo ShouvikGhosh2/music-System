@@ -34,6 +34,11 @@ Admin Panel Username and Password
 username:admin@gmail.com
 password:shouvik123.
 ```
+
+some glimpses are.......
+https://www.google.co.in/url?sa=i&url=https%3A%2F%2Frpresourceshere.tumblr.com%2Fpost%2F629239912806465536%2Fmusic-player-template-hello-guys-heres-my-first&psig=AOvVaw2yHWubtPs48FtfVhUiWwn2&ust=1719473974143000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCK4O_h-IYDFQAAAAAdAAAAABAJ.
+
+https://www.google.co.in/url?sa=i&url=https%3A%2F%2Ffreepsd.cc%2Fpsd%2Fmusic-player-app-website-template-free-psd&psig=AOvVaw2yHWubtPs48FtfVhUiWwn2&ust=1719473974143000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCK4O_h-IYDFQAAAAAdAAAAABAx.
 #  Note: do not forget to add your email credentials validate.php and activate_email.php file so as to send email notifications
 
 
