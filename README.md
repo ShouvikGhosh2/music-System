@@ -32,7 +32,7 @@ DELIMITER ;
 ```
 Admin Panel Username and Password
 username:admin@gmail.com
-password:sujith123
+password:shouvik123.
 ```
 #  Note: do not forget to add your email credentials validate.php and activate_email.php file so as to send email notifications
 
